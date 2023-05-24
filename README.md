@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @encrustace
 - 👀 I’m interested in programming and apply them to solve real life problems and provide the magic of softwares.
-- 🌱 I’m currently learning Spring Boot
+- 🌱 Learning new technologies
 - 💞️ I’m looking to collaborate on any open source projects and paid projects also in any language, Js, Java, Dart, Kotlin, C/C++
 - 📫 How to reach me ...
 React out to me encrustace@gmail.com
