@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any open source projects and paid projects also in any language, Js, Java, Dart, Flutter.
 - 📑 Portfolio https://portfolio-encrustace.vercel.app
 - 📫 How to reach me ...
-React out to me encrustace@gmail.com
+React out to me encrustace@icloud.com
 
 <!---
 encrustace/encrustace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
